@@ -20,7 +20,6 @@ jobs:
         with:
           artifact-name: grimoirelab-dist
           artifact-path: dist
-          skip-checkout: yes
 
   build-image:
     runs-on: ubuntu-latest
