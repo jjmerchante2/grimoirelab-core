@@ -9,7 +9,7 @@ on:
         required: true
 
 env:
-  IMAGE_NAME: "grimoirelab/grimoirelab-core"
+  IMAGE_NAME: "jjmerchante/grimoirelab-core"
 
 jobs:
   build-package:
